@@ -4,5 +4,5 @@ go 1.21.1
 
 require (
 	github.com/michimani/gotwi v0.14.0
-	github.com/xh3b4sd/tracer v0.10.1
+	github.com/xh3b4sd/tracer v0.11.1
 )
